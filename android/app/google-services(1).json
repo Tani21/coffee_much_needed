@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18664090645",
+    "project_id": "coffee-f174e",
+    "storage_bucket": "coffee-f174e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18664090645:android:e0232a664f89161d49721c",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18664090645-9dlgnk1sad3a7eqcqmc2sf4dt7870dg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzXK9ibKiqhoLZ61e4o0o2QndiasxNgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18664090645-9dlgnk1sad3a7eqcqmc2sf4dt7870dg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
